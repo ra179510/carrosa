@@ -1,0 +1,31 @@
+{
+  "name": "carrosa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ra179510: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@github.com/ra179510/carrosa.git"
+  },
+  "author": "Beatriz de Almeida Nogueira\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[.\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b\u001b[D\u001b[D\u001b[D\u001b[C\u001b[. Almeida ra179510@ucdb.br>\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D <\u001b[C\u001b[C\u001b[D\u001b[Dr\u001b[C\u001b[C\u001b[D\u001b[Da179510@ucdb.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ra179510/carrosa/issues"
+  },
+  "homepage": "https://github.com/ra179510/carrosa#readme",
+  "dependencies": {
+    "3": "^2.1.0",
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "sequelize": "^6.33.0",
+    "sqlite": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "nodemon": "^3.0.1"
+  }
+}
